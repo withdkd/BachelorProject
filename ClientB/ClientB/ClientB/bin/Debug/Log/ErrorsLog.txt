@@ -1,0 +1,9 @@
+[25.06.2018 18:54:27] 
+Message: Строка не распознана как действительное значение DateTime.
+Source: 
+mscorlib
+StackTrace: 
+   в System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   в System.DateTime.Parse(String s)
+   в ClientB.Form1.SendInfo(Byte[] src) в C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientB\ClientB\ClientB\Form1.cs:строка 162
+   в ClientB.Form1.AwaitConnections() в C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientB\ClientB\ClientB\Form1.cs:строка 113

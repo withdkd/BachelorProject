@@ -1,0 +1,14 @@
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientB\ClientB\ClientB\bin\Debug\ClientB.exe.config
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientB\ClientB\ClientB\bin\Debug\ClientB.exe
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientB\ClientB\ClientB\bin\Debug\ClientB.pdb
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientB\ClientB\ClientB\obj\Debug\ClientB.Form1.resources
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientB\ClientB\ClientB\obj\Debug\ClientB.Properties.Resources.resources
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientB\ClientB\ClientB\obj\Debug\ClientB.csproj.GenerateResource.cache
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientB\ClientB\ClientB\obj\Debug\ClientB.csproj.CoreCompileInputs.cache
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientB\ClientB\ClientB\obj\Debug\ClientB.exe
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientB\ClientB\ClientB\obj\Debug\ClientB.pdb
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientB\ClientB\ClientB\obj\Debug\ClientB.csprojAssemblyReference.cache
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientB\ClientB\ClientB\obj\Debug\ClientB.Form2.resources
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientB\ClientB\ClientB\bin\Debug\LiteDB.dll
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientB\ClientB\ClientB\bin\Debug\LiteDB.xml
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientB\ClientB\ClientB\obj\Debug\ClientB.csproj.CopyComplete

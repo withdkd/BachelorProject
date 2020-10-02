@@ -1,0 +1,11 @@
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientA\ClientA\ClientA\bin\Debug\ClientA.exe.config
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientA\ClientA\ClientA\bin\Debug\ClientA.exe
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientA\ClientA\ClientA\bin\Debug\ClientA.pdb
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientA\ClientA\ClientA\obj\Debug\ClientA.Form1.resources
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientA\ClientA\ClientA\obj\Debug\ClientA.Properties.Resources.resources
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientA\ClientA\ClientA\obj\Debug\ClientA.csproj.GenerateResource.cache
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientA\ClientA\ClientA\obj\Debug\ClientA.csproj.CoreCompileInputs.cache
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientA\ClientA\ClientA\obj\Debug\ClientA.exe
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientA\ClientA\ClientA\obj\Debug\ClientA.pdb
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientA\ClientA\ClientA\obj\Debug\ClientA.Form2.resources
+C:\Users\withdkd\Desktop\ДИПЛОМ\2018\Project\ClientA\ClientA\ClientA\obj\Debug\ClientA.csprojAssemblyReference.cache
